@@ -30,6 +30,9 @@ function App() {
     setAnswers(initialAnswers);
   }
 
+  const goBack = () => {
+    const currentIndex =
+  }
   
   return (
     // <div>
