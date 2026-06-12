@@ -24,7 +24,7 @@ export const plants = [
     care: "3주 1회 물주기",
   },
   {
-    id: "zz",
+    id: "zzplant",
     name: "금전수",
     space: ["medium", "large"],
     light: ["low", "medium"],
