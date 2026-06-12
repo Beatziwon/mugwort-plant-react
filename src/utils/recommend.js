@@ -1,6 +1,6 @@
 import { recommendWeights, plants } from "../data/plants.js";
 
-export function getRecommendedPlants(answers, limit = plants.length) {
+export function getRecommendedPlants(answers, limit = 3) {
   return plants
     .map((plant) => {
       let score = 0;
